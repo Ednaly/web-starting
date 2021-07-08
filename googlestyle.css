@@ -1,0 +1,15 @@
+.nav-options ul{
+    list-style: none;
+    text-align: right;
+}
+.google img{
+    width: 280px;
+    padding-top: 80px;
+    padding-left: 500px;
+}
+.buscador-listas{
+    text-align: center;
+}
+.buscador-listas ul{
+    list-style: none;
+}
